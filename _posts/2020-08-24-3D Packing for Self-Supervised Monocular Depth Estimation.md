@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3D Packing for Self-Supervised Monocular Depth Estimation
+excerpt_separator: <!--more-->
 ---
 
 We are going to discuss  
@@ -9,6 +10,8 @@ by Vitor Guizilini et al, 2020 ([https://arxiv.org/abs/1905.02693](https://arxiv
 
 
 ![image](/assets/2020-08-24-3D Packing for Self-Supervised Monocular Depth Estimation/packnet-ddad.gif)
+
+<!--more-->
 
 ![image](/assets/2020-08-24-3D Packing for Self-Supervised Monocular Depth Estimation/diagram.png)
 
