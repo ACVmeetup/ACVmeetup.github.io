@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Session 1: 3D Packing for Self-Supervised Monocular Depth Estimation
+title: "Session 1: 3D Packing for Self-Supervised Monocular Depth Estimation"
 excerpt_separator: <!--more-->
 ---
 

@@ -10,7 +10,7 @@ title:            Advanced Computer Vision Meetup
 tagline:          ''
 description:      ''
 url:              'https://acvmeetup.github.io/'
-baseurl:          'https://acvmeetup.github.io/'
+baseurl:          ''
 
 author:
   name:           'Advanced Computer Vision Meetup'
