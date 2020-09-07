@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D Packing for Self-Supervised Monocular Depth Estimation
+title: Session 1: 3D Packing for Self-Supervised Monocular Depth Estimation
 excerpt_separator: <!--more-->
 ---
 
@@ -20,12 +20,5 @@ Source code: [https://github.com/TRI-ML/packnet-sfm](https://github.com/TRI-ML/p
 Video: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b62iDkLgGSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-DDAD Dataset: [https://github.com/TRI-ML/DDAD](https://github.com/TRI-ML/DDAD)  
-
-
-## Meeting notes
-
-* TODO
 
 
