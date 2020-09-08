@@ -1,6 +1,6 @@
-# ACVmeetup.github.io
+# advancedcomputervision.github.io
 
-This is the source of [ACVmeetup.github.io](https://acvmeetup.github.io/) website. 
+This is the source of [advancedcomputervision.github.io](https://advancedcomputervision.github.io/) website. 
 
 Use branch `gh-pages` to change the content of the website.
 
