@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Advanced Computer Vision Meetup
 tagline:          ''
 description:      ''
-url:              'https://acvmeetup.github.io/'
+url: 'https://advancedcomputervision.github.io/'
 baseurl:          ''
 
 author:
   name:           'Advanced Computer Vision Meetup'
-  url:            https://github.com/ACVmeetup
+  url: https://github.com/advancedcomputervision
 
 paginate:         5
 
@@ -22,6 +22,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/ACVmeetup/ACVmeetup.github.io/tree/gh-pages
+  repo: https://github.com/advancedcomputervision/advancedcomputervision.github.io/tree/gh-pages
 
 plugins:          [jekyll-paginate, jekyll-gist]
