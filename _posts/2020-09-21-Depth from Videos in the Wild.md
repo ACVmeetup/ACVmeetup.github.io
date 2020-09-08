@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Session 2: Depth from Videos in the Wild"
+excerpt_separator: <!--more-->
+---
+
+
+We read and discuss   
+"Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras" 
+by Ariel Gordon et al., ICCV 2019, [arxiv](https://arxiv.org/abs/1904.04998).
+
+
+![image](/assets/2020-09-21-Depth from Videos in the Wild/depth_from_videos_in_the_wild_examples.png)
+<!--more-->
+
+![image](/assets/2020-09-21-Depth from Videos in the Wild/depth_from_videos_in_the_wild_diagram.png)
+
+[github page](https://github.com/google-research/google-research/tree/master/depth_from_video_in_the_wild)
+
+The code is based on [Struct2depth repository](https://github.com/tensorflow/models/tree/master/research/struct2depth).
+
+ 
