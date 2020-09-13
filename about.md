@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About & Rules
+url: /about
 ---
 
 We organize a meetup dedicated to computer vision in Berlin.
