@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Advanced Computer Vision Meetup
 tagline:          ''
 description:      ''
-baseurl:          '/'
 url:              'https://AdvancedComputerVision.github.io'
+baseurl:          ''
 
 author:
   name:           'Advanced Computer Vision Meetup'
