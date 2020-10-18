@@ -5,10 +5,10 @@ excerpt_separator: <!--more-->
 ---
 
 
-21.10.2020 we read and discuss   
+We read and discuss   
 "End-to-End Object Detection with Transformers" 
 by Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko 
-[arxiv](https://arxiv.org/abs/2005.12872)
+[arxiv](https://arxiv.org/abs/2005.12872), May 2020.
 
 That is going to be our first online meetup.
 
