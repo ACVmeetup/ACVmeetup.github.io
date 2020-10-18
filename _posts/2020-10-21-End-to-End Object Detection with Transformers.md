@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Session 3: End-to-End Object Detection with Transformers"
+title: "Session 3: End-to-End Object Detection with Transformers - online"
 excerpt_separator: <!--more-->
 ---
 
