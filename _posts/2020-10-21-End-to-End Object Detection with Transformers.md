@@ -24,9 +24,12 @@ As a warm up we briefly discuss Transformer architecture from
 
 ![image](/assets/2020-10-21-End-to-End Object Detection with Transformers/End-to-End Object Detection with Transformers 2.png)
 
+Training code and pretrained models are available
+at [https://github.com/facebookresearch/detr](https://github.com/facebookresearch/detr).
 
-Training code and pretrained models are available at [https://github.com/facebookresearch/detr](https://github.com/facebookresearch/detr).
+## More info
 
-
+* [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) by Jay Alammar - nice explanation
+  for Transformer model.
 
  
