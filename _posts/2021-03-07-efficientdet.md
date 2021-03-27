@@ -16,6 +16,7 @@ https://arxiv.org/pdf/1911.09070.pdf
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7jG4II7BSIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+[meetup recordings](https://www.youtube.com/watch?v=oJsmBuGMeQY&feature=youtu.be) on youtube
 
 
 Notes:

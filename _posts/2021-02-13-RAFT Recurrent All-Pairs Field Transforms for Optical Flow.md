@@ -23,6 +23,8 @@ Presentation about implementing RAFT in Tensorflow: [RVC 2020 - Live Session 2](
 
 <!--more-->
 
+[Meetup recordings](https://www.youtube.com/watch?v=XYPRZf69JJ8) (youtube)
+
 ## Alternative papers we considered
 
 1. *First Order Motion Model for Image Animation*,  [pdf](https://arxiv.org/pdf/2003.00196.pdf)
@@ -35,3 +37,6 @@ Presentation about implementing RAFT in Tensorflow: [RVC 2020 - Live Session 2](
    CVPR 2020 It is one of the fastest among the top methods + open source.
 
 4. What Matters in Unsupervised Optical Flow (ECCV 2020 Oral)
+
+
+
