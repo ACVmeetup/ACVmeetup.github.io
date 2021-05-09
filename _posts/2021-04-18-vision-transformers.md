@@ -1,5 +1,6 @@
 ---
-layout: post title: "Session 8: Discussing Vision Transformers for Dense Prediction"
+layout: "post"
+title: "Session 8: Discussing Vision Transformers for Dense Prediction"
 excerpt_separator: <!--more-->
 ---
 
