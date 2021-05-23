@@ -7,4 +7,6 @@ excerpt_separator: <!--more-->
 "Vision Transformers for Dense Prediction"
 by Ranftl et al, 2021
 
-https://paperswithcode.com/paper/vision-transformers-for-dense-prediction
+[https://paperswithcode.com/paper/vision-transformers-for-dense-prediction](https://paperswithcode.com/paper/vision-transformers-for-dense-prediction)
+
+
